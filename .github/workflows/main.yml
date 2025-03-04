@@ -14,7 +14,7 @@ jobs:
     timeout-minutes: 120
     strategy:
       matrix:
-        operating-system: [ 'ubuntu-22.04' ]
+        operating-system: [ 'ubuntu-20.04' ]
     steps:
       - name: Set branch name
         id: vars
@@ -55,7 +55,7 @@ jobs:
       - name: Install selenium
         if: env.OPEN_DRIVER == 'True'
         run: pipenv install selenium
-      - name: Update
+      - name: 更新
         run: pipenv run dev
       - name: Commit and push if changed
         run: |
