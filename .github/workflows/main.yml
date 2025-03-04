@@ -1,10 +1,10 @@
 name: 'Update schedule'
 
-于:
+on:
   schedule:
     - cron: '0 22 10 * * *'
   workflow_dispatch:
-    分支:
+    branches:
       - master
       - dev
       - gd
@@ -14,7 +14,7 @@ jobs:
     timeout-minutes: 120
     strategy:
       matrix:
-        operating-system: [ 'ubuntu-22.04' ]
+        operating-system: [ 'ubuntu-20.04' ]
     steps:
       - name: Set branch name
         id: vars
@@ -55,7 +55,7 @@ jobs:
       - name: Install selenium
         if: env.OPEN_DRIVER == 'True'
         run: pipenv install selenium
-      - name: 更新
+      - name: Update
         run: pipenv run dev
       - name: Commit and push if changed
         run: |
