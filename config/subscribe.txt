@@ -73,3 +73,4 @@ https://myernestlu.github.io/zby.txt
 http://47.99.102.252/live.txt
 https://gitee.com/gly358617629/iptv/raw/master/IPTV.txt
 https://pan.jl8.top/down.php/229419447c5ec36ca1eed12a0ec2d3d2.txt
+http://47.120.41.246:8899/zb.txt
