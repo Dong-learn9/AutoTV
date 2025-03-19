@@ -2,3 +2,15 @@
 # 支持设置白名单：接口后添加$!
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
+河南都市,http://61.163.181.78:9901/tsfile/live/1004_1.m3u8
+河南都市,http://zzssw01.55555.io:9901/tsfile/live/1002_1.m3u8
+河南都市,http://42.225.147.15:8089/hls/18/index.m3u8
+河南都市,https://www.shqsy.com/tv/zb/hndx.php?id=hnds
+河南都市,http://1.197.127.114:10443/tsfile/live/0139_2.m3u8?key=txiptv&playlive=1&authid=0
+河南都市,http://42.238.235.104:9901/tsfile/live/1001_1.m3u8
+河南都市,http://171.14.89.179:9901/tsfile/live/1001_1.m3u8
+河南都市,http://1.199.235.116:9901/tsfile/live/1000_1.m3u8
+河南都市,http://49.232.131.30:99/dxxw.php?id=hnds
+河南都市,http://182.122.72.12:8089/hls/18/index.m3u8
+河南都市,http://182.122.75.60:8089/hls/18/index.m3u8
+河南都市,http://106.46.147.61:10443/tsfile/live/0139_2.m3u8?key=txiptv&playlive=1&authid=0
