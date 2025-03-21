@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-21 06:34:14,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
+2025-03-21 18:37:41,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
 
 📺央视频道,#genre#
 CCTV1,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
@@ -472,7 +472,7 @@ BRTV纪实科教,http://dxkwxq.dynv6.net:8888/rtp/239.3.1.115:8000 -- 0.35 MB/s
 欢笑剧场,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1868232_1764604972/ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8?icpid=3&RTS=1661190272&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 欢笑剧场,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227145/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 欢笑剧场,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227145/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-欢笑剧场,http://home.cola-service.com:40999/udp/239.45.1.4:5140 -- 0.56 MB/s
+欢笑剧场,http://home.cola-service.com:40999/udp/239.45.3.196:5140 -- 0.26 MB/s
 
 🪁动画频道,#genre#
 少儿动画,http://z4s.cdbackup.cn:8888/udp/239.93.0.193:9000 -- 0.03 MB/s
