@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-03-25 18:35:26
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-03-26 06:35:04
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
@@ -823,8 +823,12 @@ https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 #EXTINF:-1 tvg-name="河南都市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南都市.png" group-title="🏠地方频道",河南都市
 https://live.lalifeier.eu.org/hntv/hnds.m3u8?t=1742376425&key=0b65986085f9c377b6dc8b07795010b3
+#EXTINF:-1 tvg-name="河南都市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南都市.png" group-title="🏠地方频道",河南都市
+http://091211.xyz:8181/udp/225.1.4.52:1081
 #EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南梨园.png" group-title="🏠地方频道",河南梨园
 https://live.lalifeier.eu.org/hntv/hnly.m3u8?t=1742376425&key=5a3444b12933795d3a40ec94ac50868e
+#EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南梨园.png" group-title="🏠地方频道",河南梨园
+http://091211.xyz:8181/udp/225.1.4.99:1128
 #EXTINF:-1 tvg-name="武术世界" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武术世界.png" group-title="🏠地方频道",武术世界
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225508/2/index.m3u8
 #EXTINF:-1 tvg-name="武术世界" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武术世界.png" group-title="🏠地方频道",武术世界
@@ -835,14 +839,24 @@ http://itms.xznet.org:41097/udp/239.254.200.100:6234
 https://live.lalifeier.eu.org/hntv/wspd.m3u8?t=1742376425&key=f8af9ebb608f773125a6e6b73ca9d65f
 #EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南电视剧.png" group-title="🏠地方频道",河南电视剧
 https://live.lalifeier.eu.org/hntv/hndsj.m3u8?t=1742376425&key=f7e3d907bf23742788a164f189923153
+#EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南电视剧.png" group-title="🏠地方频道",河南电视剧
+http://091211.xyz:8181/udp/225.1.4.55:1084
 #EXTINF:-1 tvg-name="河南公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南公共.png" group-title="🏠地方频道",河南公共
 https://live.lalifeier.eu.org/hntv/hngg.m3u8?t=1742376425&key=f54123c60c982a9069805f5d208b4059
+#EXTINF:-1 tvg-name="河南公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南公共.png" group-title="🏠地方频道",河南公共
+http://091211.xyz:8181/udp/225.1.4.58:1087
 #EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南新闻.png" group-title="🏠地方频道",河南新闻
 https://live.lalifeier.eu.org/hntv/hnxw.m3u8?t=1742376425&key=18633d1a7ac4f853d3cda9fc917d8119
+#EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南新闻.png" group-title="🏠地方频道",河南新闻
+http://091211.xyz:8181/udp/225.1.4.56:1085
 #EXTINF:-1 tvg-name="河南民生" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南民生.png" group-title="🏠地方频道",河南民生
 https://live.lalifeier.eu.org/hntv/hnms.m3u8?t=1742376425&key=0199d06de6723ab8f0ce3a12d6c16535
+#EXTINF:-1 tvg-name="河南民生" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南民生.png" group-title="🏠地方频道",河南民生
+http://091211.xyz:8181/udp/225.1.4.53:1082
 #EXTINF:-1 tvg-name="河南国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南国际.png" group-title="🏠地方频道",河南国际
 https://live.lalifeier.eu.org/hntv/hngj.m3u8?t=1742376425&key=7c2d53ad50d58baac072304fc94d2866
+#EXTINF:-1 tvg-name="河南国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南国际.png" group-title="🏠地方频道",河南国际
+http://091211.xyz:8181/udp/225.1.4.102:1131
 #EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/文物宝库.png" group-title="🏠地方频道",文物宝库
 http://annaxi.lw-home.com:11111/udp/239.253.254.141:8000
 #EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/文物宝库.png" group-title="🏠地方频道",文物宝库
@@ -941,6 +955,8 @@ http://home.cola-service.com:40999/udp/239.45.3.196:5140 -- 0.26 MB/s
 http://z4s.cdbackup.cn:8888/udp/239.93.0.193:9000 -- 0.03 MB/s
 #EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="🪁动画频道",少儿动画
 http://home.sunruilin.com:4443/udp/239.93.0.193:9000 -- 0.25 MB/s
+#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="🪁动画频道",少儿动画
+http://091211.xyz:8181/udp/225.1.4.189:1238
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷少儿.png" group-title="🪁动画频道",卡酷少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷少儿.png" group-title="🪁动画频道",卡酷少儿

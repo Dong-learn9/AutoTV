@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-25 18:35:26,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
+2025-03-26 06:35:04,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
 
 📺央视频道,#genre#
 CCTV1,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
@@ -417,16 +417,23 @@ CCTV17,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728afa13b4/
 
 🏠地方频道,#genre#
 河南都市,https://live.lalifeier.eu.org/hntv/hnds.m3u8?t=1742376425&key=0b65986085f9c377b6dc8b07795010b3
+河南都市,http://091211.xyz:8181/udp/225.1.4.52:1081
 河南梨园,https://live.lalifeier.eu.org/hntv/hnly.m3u8?t=1742376425&key=5a3444b12933795d3a40ec94ac50868e
+河南梨园,http://091211.xyz:8181/udp/225.1.4.99:1128
 武术世界,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225508/2/index.m3u8
 武术世界,http://annaxi.lw-home.com:11111/udp/239.253.254.140:8000
 武术世界,http://itms.xznet.org:41097/udp/239.254.200.100:6234
 武术世界,https://live.lalifeier.eu.org/hntv/wspd.m3u8?t=1742376425&key=f8af9ebb608f773125a6e6b73ca9d65f
 河南电视剧,https://live.lalifeier.eu.org/hntv/hndsj.m3u8?t=1742376425&key=f7e3d907bf23742788a164f189923153
+河南电视剧,http://091211.xyz:8181/udp/225.1.4.55:1084
 河南公共,https://live.lalifeier.eu.org/hntv/hngg.m3u8?t=1742376425&key=f54123c60c982a9069805f5d208b4059
+河南公共,http://091211.xyz:8181/udp/225.1.4.58:1087
 河南新闻,https://live.lalifeier.eu.org/hntv/hnxw.m3u8?t=1742376425&key=18633d1a7ac4f853d3cda9fc917d8119
+河南新闻,http://091211.xyz:8181/udp/225.1.4.56:1085
 河南民生,https://live.lalifeier.eu.org/hntv/hnms.m3u8?t=1742376425&key=0199d06de6723ab8f0ce3a12d6c16535
+河南民生,http://091211.xyz:8181/udp/225.1.4.53:1082
 河南国际,https://live.lalifeier.eu.org/hntv/hngj.m3u8?t=1742376425&key=7c2d53ad50d58baac072304fc94d2866
+河南国际,http://091211.xyz:8181/udp/225.1.4.102:1131
 文物宝库,http://annaxi.lw-home.com:11111/udp/239.253.254.141:8000
 文物宝库,http://itms.xznet.org:41097/udp/239.254.200.106:6239
 文物宝库,https://live.lalifeier.eu.org/hntv/wwbk.m3u8?t=1742376425&key=72a01aa78af08711d0316d09fb59bd07
@@ -478,6 +485,7 @@ BRTV纪实科教,http://dxkwxq.dynv6.net:8888/rtp/239.3.1.115:8000 -- 0.35 MB/s
 🪁动画频道,#genre#
 少儿动画,http://z4s.cdbackup.cn:8888/udp/239.93.0.193:9000 -- 0.03 MB/s
 少儿动画,http://home.sunruilin.com:4443/udp/239.93.0.193:9000 -- 0.25 MB/s
+少儿动画,http://091211.xyz:8181/udp/225.1.4.189:1238
 卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 卡酷少儿,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225654/2.m3u8
 卡酷少儿,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225654/index.m3u8
