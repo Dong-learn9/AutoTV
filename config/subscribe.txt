@@ -53,7 +53,6 @@ https://raw.githubusercontent.com/wwb521/live/main/tv.m3u
 https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/live.txt
 http://home.jundie.top:81/Cat/tv/live.txt
 http://www.meowtv.top/mtvzb.txt
-https://yyrj.fun/tv
 https://raw.githubusercontent.com/mygoww/xoxo/main/zb/测试.txt
 https://raw.githubusercontent.com/MemoryCollection/IPTV/main/hotel.txt
 https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u
