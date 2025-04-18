@@ -26,7 +26,6 @@ https://m3u.ibert.me/txt/j_iptv.txt
 https://raw.githubusercontent.com/asdjkl6/tv/refs/heads/tv/.m3u/整套直播源 / 测试 / 整套直播源 /kk.txt
 https://raw.githubusercontent.com/asdjkl6/tv/refs/heads/tv/.m3u/整套直播源 / 测试 / 整套直播源 /l.txt
 https://raw.githubusercontent.com/yuanzl77/IPTV/refs/heads/main/live.m3u
-https://freetv.fun/test_channels.txt
 https://raw.githubusercontent.com/zow-zow/ssss/refs/heads/main/oldlinkstest.txt
 https://raw.githubusercontent.com/zow-zow/ssss/refs/heads/main/360results.txt
 https://raw.githubusercontent.com/lalifeier/IPTV/refs/heads/main/txt/hotel/全国.txt
