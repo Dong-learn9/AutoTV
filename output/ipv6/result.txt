@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-03 18:58:01,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2025-05-04 06:59:46,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
