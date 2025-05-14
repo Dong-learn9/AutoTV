@@ -2,3 +2,15 @@
 # 填写频道名称会直接保留该记录至最终结果，如：CCTV-1,接口地址，只填写接口地址则对所有频道生效，多条记录换行输入。
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
+河南都市,webview://https://www.hntv2.net/pc/tv-index.html
+河南都市,webview://http://xiubo.net/index.php?m=content&c=player&catid=120&id=3123&f=mediaurl&n=4
+河南电视剧,webview://http://xiubo.net/tv/henan/hndsj.html
+河南公共,webview://http://xiubo.net/tv/henan/hngg.html
+河南法制,webview://http://xiubo.net/tv/henan/hnfz.html
+河南梨园,webview://http://xiubo.net/tv/henan/hnly.html
+武术世界webview://,http://xiubo.net/tv/henan/hnwssj.html
+河南新闻,webview://http://xiubo.net/tv/henan/hnxw.html
+河南民生,webview://http://xiubo.net/index.php?m=content&c=player&catid=120&id=3122&f=mediaurl&n=5
+河南民生,http://p.123tv.cn/video.html?id=http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=3612ff946ab9a4240626d4807a36264e&wsTime=1745689545
+精彩中原,webview://http://xiubo.net/tv/henan/jczy.html
+文物宝库,webview://http://xiubo.net/index.php?m=content&c=player&catid=120&id=3111&f=mediaurl&n=3

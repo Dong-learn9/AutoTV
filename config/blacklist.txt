@@ -1,3 +1,27 @@
 # 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
+epg.pw
+skype.serv00.net
+iptv.yjxfz.com
+live-hls-web-ajb.getaj.net
+live.goodiptv.club
+hc73k3dhwo5gfkt.wcetv.com
+stream1.freetv.fun
+zw9999.cnstream.top
+zsntlqj.xicp.net
+ku9.3n.cc
+goo.bkpcp.top
+www.freetv.top
+j.x.bkpcp.top
+z.b.bkpcp.top
+php.jdshipin
+公众号~玉玉软件库
+api.olelive.com
+cd-live-stream.news
+nctv.top
+kkk.jjjj.jiduo.me
+ldocctvwbcdtxy.liveplay.myqcloud.com
+piccpndali.v.myalicdn.com
+ldcctvcpudtxy.liveplay.myqcloud.com
+fmbox.cc
