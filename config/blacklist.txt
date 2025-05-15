@@ -27,3 +27,4 @@ ldcctvcpudtxy.liveplay.myqcloud.com
 fmbox.cc
 itv.iptv1688.top
 player.cntv.cn
+dsk.cc
