@@ -28,3 +28,6 @@ fmbox.cc
 itv.iptv1688.top
 player.cntv.cn
 dsk.cc
+668/gy/gy
+web9916.w
+/php.cqshushu.ggff.net
