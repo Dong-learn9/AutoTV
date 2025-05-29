@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250529171044 +0800">
+<tv date="20250529222810 +0800">
 	<channel id="CCTV1">
 		<display-name lang="zh">CCTV1</display-name>
 	</channel>
@@ -6296,6 +6296,18 @@
 	</programme>
 	<programme channel="青海卫视" start="20250530233000 +0800" stop="20250530235900 +0800">
 		<title lang="zh">龙斗天下</title>
+	</programme>
+	<channel id="黑莓动画">
+		<display-name lang="zh">黑莓动画</display-name>
+	</channel>
+	<programme channel="黑莓动画" start="20250530001500 +0800" stop="20250530020500 +0800">
+		<title lang="zh">名侦探柯南：百万美元的五棱星</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250530020500 +0800" stop="20250530031000 +0800">
+		<title lang="zh">角落小伙伴电影版 蓝色月夜的魔法之子（普通话版）</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250530031000 +0800" stop="20250530041500 +0800">
+		<title lang="zh">角落小伙伴电影版 魔法绘本里的新朋友（普通话）</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
