@@ -31,3 +31,4 @@ dsk.cc
 668/gy/gy
 web9916.w
 /php.cqshushu.ggff.net
+smart.tv.home
