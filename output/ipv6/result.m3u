@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Dong-learn9/AutoTV/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-08-10 18:24:42
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-08-11 06:23:31
 http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8
@@ -1088,6 +1088,8 @@ http://live.cztv.cc:85/live/ggpd.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="📡卫视频道",广西卫视
 http://[2409:8087:74f0:22::7]:6410/270000001128/9900000034/index.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="📡卫视频道",广西卫视
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="📡卫视频道",广西卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010099/1.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="📡卫视频道",广西卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225731/2/index.m3u8
@@ -1115,8 +1117,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw1546067216_-170390415
 http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw2325655923_1638953995/ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="📡卫视频道",广西卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001224/index.m3u8
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="📡卫视频道",广西卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226549/index.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="📡卫视频道",贵州卫视
 http://[2409:8087:74f0:22::7]:6410/270000001128/9900000036/index.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="📡卫视频道",贵州卫视
@@ -1762,9 +1762,9 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
 http://dsj.motem.top:8880/bptv/10000100000000050000000003887434.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
-https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=ddde6b45f5065c5066ded53d6559f31c&amp;time=68134627
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
 https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=09c3a7e8a3886e3b934581b20f7edda7&time=682663e7
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
+https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=38db86971bacbc2988141f166029da55&time=68270ca6
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="📡卫视频道",新疆卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225725/2/index.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="📡卫视频道",新疆卫视
@@ -1854,8 +1854,6 @@ https://migu.188766.xyz/?migutoken=33aeb96928f3547a02f083b0286c869b&id=%E9%A6%99
 #EXTINF:-1 tvg-name="河南都市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南都市.png" group-title="🏠地方频道",河南都市
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227241/index.m3u8
 #EXTINF:-1 tvg-name="河南都市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南都市.png" group-title="🏠地方频道",河南都市
-https://live.lalifeier.eu.org/hntv/hnds.m3u8?t=1746393735&key=15d3cc47dac12d622b6ca5af30779f06
-#EXTINF:-1 tvg-name="河南都市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南都市.png" group-title="🏠地方频道",河南都市
 https://live.lalifeier.eu.org/hntv/hnds.m3u8?t=1747344259&key=5018c7ad345f4913bd6f777502a37d47
 #EXTINF:-1 tvg-name="河南都市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南都市.png" group-title="🏠地方频道",河南都市
 https://live.lalifeier.eu.org/hntv/hnds.m3u8?t=1747387778&key=2d74b37727160d0cee3dd00e346c2ec9
@@ -1887,6 +1885,8 @@ https://live.lalifeier.eu.org/hntv/hnds.m3u8?t=1747906138&key=7a18d832dbfa52f4ff
 https://live.lalifeier.eu.org/hntv/hnds.m3u8?t=1747949057&key=06c7b4e2fd1f9e5e8efd71955f5b31a9
 #EXTINF:-1 tvg-name="河南都市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南都市.png" group-title="🏠地方频道",河南都市
 https://live.lalifeier.eu.org/hntv/hnds.m3u8?t=1747992538&key=c6f079b37dbccbba655e1583199ba876
+#EXTINF:-1 tvg-name="河南都市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南都市.png" group-title="🏠地方频道",河南都市
+https://live.lalifeier.eu.org/hntv/hnds.m3u8?t=1748035318&key=915f3ad0bb6fa7778c006643c8d25d9b
 #EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南梨园.png" group-title="🏠地方频道",河南梨园
 https://live.lalifeier.eu.org/hntv/hnly.m3u8?t=1747316160&key=218295a86c4a3f95fa1ebcd5710e75ed
 #EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南梨园.png" group-title="🏠地方频道",河南梨园
@@ -2072,8 +2072,6 @@ http://p.123tv.cn/video.html?id=http://tvcdn.stream3.hndt.com/tv/65bef28a017e100
 #EXTINF:-1 tvg-name="河南民生" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南民生.png" group-title="🏠地方频道",河南民生
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227268/index.m3u8
 #EXTINF:-1 tvg-name="河南民生" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南民生.png" group-title="🏠地方频道",河南民生
-https://live.lalifeier.eu.org/hntv/hnms.m3u8?t=1747387778&key=b3772a9174aabffe5a766e9e4301019f
-#EXTINF:-1 tvg-name="河南民生" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南民生.png" group-title="🏠地方频道",河南民生
 https://live.lalifeier.eu.org/hntv/hnms.m3u8?t=1747430668&key=f2f40b29ce9e04e1b00a04d12b38acc3
 #EXTINF:-1 tvg-name="河南民生" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南民生.png" group-title="🏠地方频道",河南民生
 https://live.lalifeier.eu.org/hntv/hnms.m3u8?t=1747473908&key=8bb15386dae74c1eaf102251092db35a
@@ -2103,6 +2101,8 @@ https://live.lalifeier.eu.org/hntv/hnms.m3u8?t=1747949057&key=9582b446045da66eca
 https://live.lalifeier.eu.org/hntv/hnms.m3u8?t=1747992538&key=f48d8b2f50e8b0218bf303a96c1c30e3
 #EXTINF:-1 tvg-name="河南民生" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南民生.png" group-title="🏠地方频道",河南民生
 https://live.lalifeier.eu.org/hntv/hnms.m3u8?t=1748035318&key=be6045b09f9aff6b363418b5e2bb5ffa
+#EXTINF:-1 tvg-name="河南民生" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南民生.png" group-title="🏠地方频道",河南民生
+https://live.lalifeier.eu.org/hntv/hnms.m3u8?t=1748071365&key=dd79a16145ed8e8c3ba96fdca6229bac
 #EXTINF:-1 tvg-name="河南国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南国际.png" group-title="🏠地方频道",河南国际
 https://live.lalifeier.eu.org/hntv/hngj.m3u8?t=1747316160&key=479aecfec2b2de940c532b7b6ce97f2e
 #EXTINF:-1 tvg-name="河南国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南国际.png" group-title="🏠地方频道",河南国际
