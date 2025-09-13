@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-13 18:18:20,http://ali-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
+2025-09-14 06:16:42,http://ali-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
 
 📺央视频道,#genre#
 CCTV1,http://ali-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
@@ -10,8 +10,8 @@ CCTV2,http://60.168.230.40:2000/udp/238.1.78.235:7752
 CCTV2,http://58.19.180.108:9981/stream/channelid/980211261?profile=pass
 CCTV3,http://60.168.230.40:2000/udp/238.1.78.170:7232
 CCTV4,http://60.168.230.40:2000/udp/238.1.78.236:7760
-CCTV4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV4,http://ymz.stkeyu.top:8303/rtp/239.77.0.194:5146
+CCTV4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV5,http://60.168.230.40:2000/udp/238.1.78.171:7240
 CCTV5+,http://ymz.stkeyu.top:8303/rtp/239.77.1.31:5146
 CCTV5+,http://60.168.230.40:2000/udp/238.1.78.237:7768
@@ -33,13 +33,14 @@ CCTV15,http://60.168.230.40:2000/udp/238.1.78.222:7648
 河南卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.17:5146
 浙江卫视,https://hyf000.eu.org/80947108/ZJWS1
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://114.107.3.104:2000/udp/238.1.78.162:7168
 北京卫视,http://60.168.230.40:2000/udp/238.1.78.162:7168
-北京卫视,http://183.164.55.68:5000/udp/238.1.78.162:7168
 北京卫视,http://113.56.95.223:8889/udp/228.0.0.63:6108
-安徽卫视,http://203.205.191.53/live.ahsx.ahtv.cn/live/ahwssx.m3u8
+北京卫视,http://114.107.3.104:2000/udp/238.1.78.162:7168
+北京卫视,http://183.164.55.68:5000/udp/238.1.78.162:7168
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
+安徽卫视,http://203.205.191.53/live.ahsx.ahtv.cn/live/ahwssx.m3u8
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
 东方卫视,http://p.ytelc.com/m3u8.html?id=http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
@@ -53,8 +54,8 @@ CCTV15,http://60.168.230.40:2000/udp/238.1.78.222:7648
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 山西卫视,http://plex.home.yulei.online:9999/udp/226.0.2.152:9128
+陕西卫视,http://stream.snrtv.com/sxbc-star-EHJSVZ.m3u8
 四川卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.159:5146
-四川卫视,http://218.17.33.178:53290/tsfile/live/0123_1.m3u8?key=txiptv
 深圳卫视,http://38.64.72.148/hls/modn/list/4007/playlist.m3u8
 天津卫视,http://satellitepull.cnr.cn/live/wxtjws/playlist.m3u8
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
@@ -65,7 +66,8 @@ CCTV15,http://60.168.230.40:2000/udp/238.1.78.222:7648
 河南民生,http://p.123tv.cn/video.html?id=http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=3612ff946ab9a4240626d4807a36264e&wsTime=1745689545
 
 🪁动画频道,#genre#
-动漫秀场,http://114.107.3.104:2000/udp/238.1.78.154:7104
 动漫秀场,http://60.168.230.40:2000/udp/238.1.78.154:7104
+动漫秀场,http://114.107.3.104:2000/udp/238.1.78.154:7104
 动漫秀场,http://183.164.55.68:5000/udp/238.1.78.154:7104
+金鹰卡通,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz1iYzRlNDM3ZTlhOGNiZWYxNDFmMWNmNGM0MDA3NDRjYiZ1aWQ9JnV1aWQ9NGI5ZDBkMjNhZjJmYjJjM2MxODYxMjlhMzViZmJiYzMtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc1NzgyNjAzMA,,/JYKTMPP360.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
