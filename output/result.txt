@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-14 18:18:50,http://ali-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
+2025-09-15 06:16:57,http://ali-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
 
 📺央视频道,#genre#
 CCTV1,http://ali-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
@@ -12,50 +12,37 @@ CCTV5+,http://ymz.stkeyu.top:8303/rtp/239.77.1.31:5146
 CCTV6,http://163.142.186.56:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📡卫视频道,#genre#
-湖南卫视,http://112.132.10.54:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://150.158.10.195:80/dxxw.php
 河南卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.17:5146
-河南卫视,http://112.132.10.54:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,https://hyf000.eu.org/80947108/ZJWS1
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://112.132.10.54:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1757887222-ceb17f89ee622722b0baa513a69c76a4-0-6bec14fea5b9274e63b4701a696d73f1
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://183.164.55.68:5000/udp/238.1.78.162:7168
 北京卫视,http://113.56.95.223:8889/udp/228.0.0.63:6108
-湖北卫视,http://112.132.10.54:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://183.164.55.68:5000/udp/238.1.78.162:7168
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 安徽卫视,http://203.205.191.53/live.ahsx.ahtv.cn/live/ahwssx.m3u8
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
 东方卫视,http://p.ytelc.com/m3u8.html?id=http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-甘肃卫视,http://112.132.10.54:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
-海南卫视,http://gfr.x3322.net:9901/tsfile/live/1020_1.m3u8
-海南卫视,http://112.132.10.54:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-吉林卫视,http://112.132.10.54:9901/tsfile/live/0116_2.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://satellitepull.cnr.cn/live/wx32jsws/playlist.m3u8
 江西卫视,http://ymz.stkeyu.top:8303/rtp/239.77.1.219:5146
-江西卫视,http://112.132.10.54:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://fb4wd00001.f3322.net:1111/rtp/232.0.0.126:1234
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-宁夏卫视,http://112.132.10.54:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 山西卫视,http://plex.home.yulei.online:9999/udp/226.0.2.152:9128
-陕西卫视,http://112.132.10.54:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://stream.snrtv.com/sxbc-star-fxzMPV.m3u8
 四川卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.159:5146
 深圳卫视,http://38.64.72.148/hls/modn/list/4007/playlist.m3u8
-三沙卫视,http://gfr.x3322.net:9901/tsfile/live/1025_1.m3u8
-三沙卫视,http://113.195.7.46:9901/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://satellitepull.cnr.cn/live/wxtjws/playlist.m3u8
-天津卫视,http://112.132.10.54:9901/tsfile/live/1017_8.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
 西藏卫视,http://zb.hmysapp.cn:801/dft/xizang/xizang.php
-西藏卫视,http://112.132.10.54:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 
 🏠地方频道,#genre#
@@ -63,4 +50,5 @@ CCTV6,http://163.142.186.56:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&a
 
 🪁动画频道,#genre#
 动漫秀场,http://183.164.55.68:5000/udp/238.1.78.154:7104
+金鹰卡通,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD10eF9waG9uZV9saXZlJmNocz0mZGVmPTEmcz0wMTY3ZDc5NzNjZWU3ZDliMzk2ZmRiZTIwODgyYWYxNSZ1aWQ9JnV1aWQ9ZGY5MWE3ZTc5Yzg1ZTM5NTM1ZjkzODFmZDE5MzMwMTgtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc1NzkxMjQ3OA,,/JYKTMPP360.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
