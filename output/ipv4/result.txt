@@ -1,42 +1,42 @@
 🕘️更新时间,#genre#
-2025-09-22 06:17:35,http://ali-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
+2025-09-22 18:22:14,http://ali-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
 
 📺央视频道,#genre#
 CCTV1,http://ali-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
 CCTV1,http://58.19.180.108:9981/stream/channelid/1198995092?profile=pass
 CCTV2,http://58.19.180.108:9981/stream/channelid/980211261?profile=pass
-CCTV4,http://ymz.stkeyu.top:8303/rtp/239.77.0.194:5146
 CCTV4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV5+,http://ymz.stkeyu.top:8303/rtp/239.77.1.31:5146
 
 📡卫视频道,#genre#
-湖南卫视,http://180.213.170.24:8188/rtp/239.5.1.16:5000
 湖南卫视,http://www.tszhgjj.cn:7000/rtp/239.253.92.84:8015
+湖南卫视,http://180.213.170.24:8188/rtp/239.5.1.16:5000
 河南卫视,http://150.158.10.195:80/dxxw.php
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-河南卫视,http://180.213.170.24:8188/rtp/239.5.1.109:5000
 河南卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.17:5146
+河南卫视,http://180.213.170.24:8188/rtp/239.5.1.109:5000
 河南卫视,http://223.167.245.215:8001/rtp/239.45.0.3:5140
 浙江卫视,https://hyf000.eu.org/80947108/ZJWS1
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://180.213.170.24:8188/rtp/239.5.1.14:5000
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://183.164.55.68:5000/udp/238.1.78.162:7168
-湖北卫视,http://www.tszhgjj.cn:7000/rtp/239.253.92.210:6567
 湖北卫视,http://180.213.170.24:8188/rtp/239.5.1.20:5000
-安徽卫视,http://203.205.191.53/live.ahsx.ahtv.cn/live/ahwssx.m3u8
+湖北卫视,http://www.tszhgjj.cn:7000/rtp/239.253.92.210:6567
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
+安徽卫视,http://203.205.191.53/live.ahsx.ahtv.cn/live/ahwssx.m3u8
 安徽卫视,http://www.tszhgjj.cn:7000/rtp/239.253.92.209:6566
-重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
 重庆卫视,http://180.213.170.24:8188/rtp/239.5.1.47:5000
+重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
 东方卫视,http://180.213.170.24:8188/rtp/239.5.1.81:5000
+东方卫视,http://iptv.zkbhj.com/tv/url/go?id=5807dd9aa7a50a68f5e3768116930afcc30c88250b45e02c3ee3918e37e0dd8ac82774ab2cba0c3ab0060596ffb0adc68b159ebdfc0a79d0e46bdfab58d3819e
 东方卫视,http://p.ytelc.com/m3u8.html?id=http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://www.tszhgjj.cn:7000/rtp/239.253.92.201:6146
 广西卫视,http://180.213.170.24:8188/rtp/239.5.1.110:5000
 贵州卫视,http://www.tszhgjj.cn:7000/rtp/239.253.92.105:6055
-海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws&?key=txiptv
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
+海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws&?key=txiptv
 海南卫视,http://180.213.170.24:8188/rtp/239.5.1.111:5000
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
 河北卫视,http://180.213.170.24:8188/rtp/239.5.1.82:5000
@@ -44,16 +44,14 @@ CCTV5+,http://ymz.stkeyu.top:8303/rtp/239.77.1.31:5146
 江苏卫视,http://satellitepull.cnr.cn/live/wx32jsws/playlist.m3u8
 江西卫视,http://www.tszhgjj.cn:7000/rtp/239.253.92.19:6145
 江西卫视,http://180.213.170.24:8188/rtp/239.5.1.84:5000
-江西卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.149:5146
 辽宁卫视,http://fb4wd00001.f3322.net:1111/rtp/232.0.0.126:1234
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-ELMNSY.m3u8
 四川卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.159:5146
 四川卫视,http://www.tszhgjj.cn:7000/rtp/239.253.92.16:6043
 四川卫视,http://180.213.170.24:8188/rtp/239.5.1.22:5000
-深圳卫视,http://www.tszhgjj.cn:7000/rtp/239.253.92.86:8017
 深圳卫视,http://180.213.170.24:8188/rtp/239.5.1.19:5000
+深圳卫视,http://www.tszhgjj.cn:7000/rtp/239.253.92.86:8017
 天津卫视,http://satellitepull.cnr.cn/live/wxtjws/playlist.m3u8
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
 西藏卫视,http://zb.hmysapp.cn:801/dft/xizang/xizang.php
@@ -66,4 +64,5 @@ CCTV5+,http://ymz.stkeyu.top:8303/rtp/239.77.1.31:5146
 
 🪁动画频道,#genre#
 动漫秀场,http://183.164.55.68:5000/udp/238.1.78.154:7104
+金鹰卡通,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD10eF9waG9uZV9saXZlJmNocz0mZGVmPTEmcz0zZjAxMDEyMmM3ZDU1YjdiNWJiOWU5MzBjZmU1N2JiYyZ1aWQ9JnV1aWQ9YWNjN2MyZTQxOTJkYjM5NzRjODFjZDcwZTY0MzJmZjUtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc1ODU1MDY4OA,,/JYKTMPP360.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
