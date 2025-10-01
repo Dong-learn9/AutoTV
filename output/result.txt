@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-01 06:21:38,http://ali-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
+2025-10-01 18:30:29,http://ali-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
 
 📺央视频道,#genre#
 CCTV1,http://ali-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
@@ -9,30 +9,45 @@ CCTV4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV5+,http://ymz.stkeyu.top:8303/rtp/239.77.1.31:5146
 
 📡卫视频道,#genre#
-湖南卫视,http://180.213.170.24:8188/rtp/239.5.1.16:5000
 湖南卫视,http://www.tszhgjj.cn:7000/rtp/239.253.92.84:8015
+湖南卫视,http://180.213.170.24:8188/rtp/239.5.1.16:5000
+湖南卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0128_2.m3u8?key=txiptv&playlive=0&authid=0
+广东卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0125_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://150.158.10.195:80/dxxw.php
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.17:5146
 河南卫视,http://180.213.170.24:8188/rtp/239.5.1.109:5000
-河南卫视,http://223.167.230.34:4022/rtp/239.45.0.3:5140
+河南卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0139_2.m3u8?key=txiptv&playlive=0&authid=0
+河南卫视,http://60.16.0.216:5757/hls/42/index.m3u8
 河南卫视,http://223.167.245.215:8001/rtp/239.45.0.3:5140
 浙江卫视,https://hyf000.eu.org/80947108/ZJWS1
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0124_2.m3u8?key=txiptv&playlive=0&authid=0
 浙江卫视,http://180.213.170.24:8188/rtp/239.5.1.14:5000
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0122_2.m3u8?key=txiptv&playlive=0&authid=0
+北京卫视,http://zzssw01.55555.io:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://180.213.170.24:8188/rtp/239.5.1.20:5000
+湖北卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0132_2.m3u8?key=txiptv&playlive=0&authid=0
 湖北卫视,http://www.tszhgjj.cn:7000/rtp/239.253.92.210:6567
+黑龙江卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0143_1.m3u8?key=txiptv&playlive=0&authid=0
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 安徽卫视,http://203.205.191.53/live.ahsx.ahtv.cn/live/ahwssx.m3u8
 安徽卫视,http://www.tszhgjj.cn:7000/rtp/239.253.92.209:6566
+安徽卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0130_2.m3u8?key=txiptv&playlive=0&authid=0
+安徽卫视,http://zzssw01.55555.io:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
 重庆卫视,http://180.213.170.24:8188/rtp/239.5.1.47:5000
+重庆卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0142_2.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://zzssw01.55555.io:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://180.213.170.24:8188/rtp/239.5.1.81:5000
 东方卫视,http://p.ytelc.com/m3u8.html?id=http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://www.tszhgjj.cn:7000/rtp/239.253.92.201:6146
+东南卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0137_2.m3u8?key=txiptv&playlive=0&authid=0
+甘肃卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0141_1.m3u8?key=txiptv&playlive=0&authid=0
 广西卫视,http://180.213.170.24:8188/rtp/239.5.1.110:5000
+广西卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0113_1.m3u8?key=txiptv&playlive=0&authid=0
 贵州卫视,http://www.tszhgjj.cn:7000/rtp/239.253.92.105:6055
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 海南卫视,http://180.213.170.24:8188/rtp/239.5.1.111:5000
@@ -40,17 +55,28 @@ CCTV5+,http://ymz.stkeyu.top:8303/rtp/239.77.1.31:5146
 河北卫视,http://180.213.170.24:8188/rtp/239.5.1.82:5000
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 江苏卫视,http://satellitepull.cnr.cn/live/wx32jsws/playlist.m3u8
-江西卫视,http://www.tszhgjj.cn:7000/rtp/239.253.92.19:6145
 江西卫视,http://180.213.170.24:8188/rtp/239.5.1.84:5000
+江西卫视,http://www.tszhgjj.cn:7000/rtp/239.253.92.19:6145
+江西卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0138_2.m3u8?key=txiptv&playlive=0&authid=0
 辽宁卫视,http://fb4wd00001.f3322.net:1111/rtp/232.0.0.126:1234
+辽宁卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0121_2.m3u8?key=txiptv&playlive=0&authid=0
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
+内蒙古卫视,http://gaoyitv.6600.org:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
+青海卫视,http://gaoyitv.6600.org:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0131_2.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://zzssw01.55555.io:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-gjnBD2.m3u8
-四川卫视,http://www.tszhgjj.cn:7000/rtp/239.253.92.16:6043
+山西卫视,http://gaoyitv.6600.org:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 四川卫视,http://180.213.170.24:8188/rtp/239.5.1.22:5000
+四川卫视,http://117.86.51.74:8888/rtp/239.49.1.43:6000
+四川卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+四川卫视,http://www.tszhgjj.cn:7000/rtp/239.253.92.16:6043
 深圳卫视,http://www.tszhgjj.cn:7000/rtp/239.253.92.86:8017
 深圳卫视,http://180.213.170.24:8188/rtp/239.5.1.19:5000
+深圳卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0126_1.m3u8?key=txiptv&playlive=0&authid=0
+深圳卫视,http://zzssw01.55555.io:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://satellitepull.cnr.cn/live/wxtjws/playlist.m3u8
+天津卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0135_2.m3u8?key=txiptv&playlive=0&authid=0
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
 西藏卫视,http://zb.hmysapp.cn:801/dft/xizang/xizang.php
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
@@ -61,4 +87,5 @@ CCTV5+,http://ymz.stkeyu.top:8303/rtp/239.77.1.31:5146
 河南民生,http://p.123tv.cn/video.html?id=http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=3612ff946ab9a4240626d4807a36264e&wsTime=1745689545
 
 🪁动画频道,#genre#
-金鹰卡通,http://phonehwei.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1od19waG9uZSZjaHM9JmRlZj0xJnM9NmVlYWRlZTFlNWJjMDA4NDA2NjE2MjFkZmUzNjY1MTQmdWlkPSZ1dWlkPWE3ZDJmYjNkODc5MWM4MzUyNjk1MTQzNzI2ZmY5YjMwLTZhMGUyNjM3JnY9MiZhcz0wJmVzPTE3NTkyNzM4NzE,/JYKTMPP360.m3u8
+金鹰卡通,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD10eF9waG9uZV9saXZlJmNocz0mZGVmPTEmcz1lMWVkOTM1NDcwOGFiNzk0Njk4N2UxYzNhMDExNGVkMiZ1aWQ9JnV1aWQ9N2IwMTkxOGY5YWE1N2IwODViZDhhOTI1OWIwMGNiNTEtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc1OTMzMTUzNg,,/JYKTMPP360.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
