@@ -1,23 +1,24 @@
 🕘️更新时间,#genre#
-2025-12-13 06:19:04,http://27.41.245.32:801/hls/1/index.m3u8
+2025-12-13 18:19:36,http://27.41.245.32:801/hls/1/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://27.41.245.32:801/hls/1/index.m3u8
 CCTV-1,http://144.255.68.199:5006/udp/239.21.1.120:5002
-CCTV-2,http://144.255.40.71:7788/udp/239.21.1.151:5002
 CCTV-2,http://144.255.68.199:5006/udp/239.21.1.151:5002
+CCTV-2,http://144.255.40.71:7788/udp/239.21.1.151:5002
 CCTV-3,http://144.255.40.71:7788/udp/239.21.2.45:5002
-CCTV-4,http://144.255.68.199:5006/udp/239.21.1.154:5002
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1765674000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-b6944fdfa4af60a2da0d2337246b1e54&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-4,http://144.255.40.71:7788/udp/239.21.1.154:5002
+CCTV-4,http://144.255.68.199:5006/udp/239.21.1.154:5002
 CCTV-5,http://27.41.245.32:801/hls/5/index.m3u8
 CCTV-5,http://144.255.40.71:7788/udp/239.21.2.46:5002
 CCTV-5,http://144.255.68.199:5006/udp/239.21.2.46:5002
 CCTV-5+,http://144.255.40.71:7788/udp/239.21.1.142:5002
 CCTV-5+,http://144.255.68.199:5006/udp/239.21.1.142:5002
-CCTV-6,http://144.255.68.199:5006/udp/239.21.2.47:5002
 CCTV-6,http://144.255.40.71:7788/udp/239.21.2.47:5002
-CCTV-7,http://144.255.68.199:5006/udp/239.21.1.152:5002
+CCTV-6,http://144.255.68.199:5006/udp/239.21.2.47:5002
 CCTV-7,http://144.255.40.71:7788/udp/239.21.1.152:5002
+CCTV-7,http://144.255.68.199:5006/udp/239.21.1.152:5002
 CCTV-8,http://144.255.40.71:7788/udp/239.21.2.48:5002
 CCTV-8,http://144.255.68.199:5006/udp/239.21.2.48:5002
 CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
@@ -46,7 +47,6 @@ CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 浙江卫视,http://satellitepull.cnr.cn/live/wxzjws/playlist.m3u8
 浙江卫视,http://144.255.40.71:7788/udp/239.21.1.90:5002
-浙江卫视,http://144.255.68.199:5006/udp/239.21.1.90:5002
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://144.255.40.71:7788/udp/239.21.1.88:5002
@@ -63,7 +63,6 @@ CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 重庆卫视,http://144.255.40.71:7788/udp/239.21.1.233:5002
 重庆卫视,http://144.255.68.199:5006/udp/239.21.1.233:5002
 重庆卫视,http://www.luojh.cc:58888/udp/225.0.4.187:7980
-东方卫视,http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8
 东方卫视,http://144.255.40.71:7788/udp/239.21.1.111:5002
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 东方卫视,http://121.29.169.73:2083/rtp/239.253.92.89:8019
@@ -75,9 +74,9 @@ CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 甘肃卫视,http://144.255.68.199:5006/udp/239.21.2.22:5002
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 贵州卫视,http://27.41.245.32:801/hls/35/index.m3u8
+贵州卫视,http://144.255.40.71:7788/udp/239.21.1.166:5002
 贵州卫视,http://144.255.68.199:5006/udp/239.21.1.166:5002
 贵州卫视,http://121.29.169.73:2083/rtp/239.253.92.105:6055
-贵州卫视,http://144.255.40.71:7788/udp/239.21.1.166:5002
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 海南卫视,http://144.255.40.71:7788/udp/239.21.2.14:5002
 海南卫视,http://144.255.68.199:5006/udp/239.21.2.14:5002
@@ -96,13 +95,15 @@ CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 辽宁卫视,http://144.255.40.71:7788/udp/239.21.1.164:5002
 辽宁卫视,http://144.255.68.199:5006/udp/239.21.1.164:5002
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
+内蒙古卫视,http://124.64.223.204:8686/rtp/239.3.1.43:8176
 宁夏卫视,http://satellitepull.cnr.cn/live/wxnxws/playlist.m3u8
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
+青海卫视,http://115.48.161.66:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山东卫视,http://121.29.169.73:2083/rtp/239.253.92.207:8109
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
+山西卫视,http://113.25.252.226:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-jwxAEF.m3u8
 四川卫视,http://144.255.68.199:5006/udp/239.21.2.15:5002
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 天津卫视,http://satellitepull.cnr.cn/live/wxtjws/playlist.m3u8
@@ -121,4 +122,5 @@ CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 
 🪁动画频道,#genre#
 动漫秀场,http://router.870503.xyz:18885/udp/239.45.3.134:5140
-金鹰卡通,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz0xOTMxM2ZlMWY0MTU0NjhiNmMyNGNjOWEwYjBmYjUxOCZ1aWQ9JnV1aWQ9M2JiZjRmMmQ1MTdiY2JmZWQ1M2QxZGE3NDk5NzJiMGYtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2NTU4NTI4OQ,,/JYKTMPP360.m3u8
+金鹰卡通,http://101.66.199.22:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+金鹰卡通,http://101.66.199.102:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
