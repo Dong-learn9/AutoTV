@@ -1,23 +1,22 @@
 🕘️更新时间,#genre#
-2025-12-16 06:19:54,http://27.41.245.32:801/hls/1/index.m3u8
+2025-12-16 18:24:15,http://27.41.245.32:801/hls/1/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://27.41.245.32:801/hls/1/index.m3u8
-CCTV-1,http://fnos.sunny2017.xyz:7788/udp/239.21.1.120:5002
 CCTV-1,http://144.255.68.199:5006/udp/239.21.1.120:5002
-CCTV-2,http://144.255.68.199:5006/udp/239.21.1.151:5002
 CCTV-2,http://fnos.sunny2017.xyz:7788/udp/239.21.1.151:5002
+CCTV-2,http://144.255.68.199:5006/udp/239.21.1.151:5002
 CCTV-3,http://fnos.sunny2017.xyz:7788/udp/239.21.2.45:5002
-CCTV-4,http://144.255.68.199:5006/udp/239.21.1.154:5002
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1765933200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-d603262795dc84d3c0ab6f629424ac74&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-4,http://fnos.sunny2017.xyz:7788/udp/239.21.1.154:5002
+CCTV-4,http://144.255.68.199:5006/udp/239.21.1.154:5002
 CCTV-5,http://27.41.245.32:801/hls/5/index.m3u8
 CCTV-5,http://fnos.sunny2017.xyz:7788/udp/239.21.2.46:5002
 CCTV-5,http://144.255.68.199:5006/udp/239.21.2.46:5002
 CCTV-5+,http://fnos.sunny2017.xyz:7788/udp/239.21.1.142:5002
 CCTV-5+,http://144.255.68.199:5006/udp/239.21.1.142:5002
-CCTV-6,http://144.255.68.199:5006/udp/239.21.2.47:5002
 CCTV-6,http://fnos.sunny2017.xyz:7788/udp/239.21.2.47:5002
-CCTV-7,http://fnos.sunny2017.xyz:7788/udp/239.21.1.152:5002
+CCTV-6,http://144.255.68.199:5006/udp/239.21.2.47:5002
 CCTV-8,http://fnos.sunny2017.xyz:7788/udp/239.21.2.48:5002
 CCTV-8,http://144.255.68.199:5006/udp/239.21.2.48:5002
 CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
@@ -30,23 +29,21 @@ CCTV-13,http://fnos.sunny2017.xyz:7788/udp/239.21.2.3:5002
 CCTV-14,http://fnos.sunny2017.xyz:7788/udp/239.21.1.157:5002
 CCTV-14,http://144.255.68.199:5006/udp/239.21.1.157:5002
 CCTV-15,http://fnos.sunny2017.xyz:7788/udp/239.21.2.4:5002
-CCTV-16,http://fnos.sunny2017.xyz:7788/udp/239.21.2.51:5002
 CCTV-16,http://144.255.68.199:5006/udp/239.21.2.51:5002
 CCTV-17,http://fnos.sunny2017.xyz:7788/udp/239.21.1.186:5002
 CCTV-17,http://144.255.68.199:5006/udp/239.21.1.186:5002
 CETV-1,http://fnos.sunny2017.xyz:7788/udp/239.21.2.7:5002
 CETV-1,http://144.255.68.199:5006/udp/239.21.2.7:5002
-CETV-1,http://116.237.37.244:8888/rtp/239.45.1.125:5140
-CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
-CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
-CETV-4,http://116.237.37.244:8888/rtp/239.45.1.243:5140
-CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
+CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
+CETV-1,http://116.237.37.244:8888/rtp/239.45.1.125:5140
+CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
+CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
+CETV-4,http://116.237.37.244:8888/rtp/239.45.1.243:5140
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,http://fnos.sunny2017.xyz:7788/udp/239.21.1.158:5002
 湖南卫视,http://144.255.68.199:5006/udp/239.21.1.158:5002
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 广东卫视,http://fnos.sunny2017.xyz:7788/udp/239.21.1.92:5002
@@ -70,9 +67,8 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 安徽卫视,http://144.255.68.199:5006/udp/239.21.1.159:5002
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
 重庆卫视,http://27.41.245.32:801/hls/59/index.m3u8
-重庆卫视,http://fnos.sunny2017.xyz:7788/udp/239.21.1.233:5002
-重庆卫视,http://144.255.68.199:5006/udp/239.21.1.233:5002
 重庆卫视,http://www.luojh.cc:58888/udp/225.0.4.187:7980
+重庆卫视,http://144.255.68.199:5006/udp/239.21.1.233:5002
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 东方卫视,http://fnos.sunny2017.xyz:7788/udp/239.21.1.111:5002
 东方卫视,http://121.29.169.73:2083/rtp/239.253.92.89:8019
@@ -98,7 +94,6 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 江苏卫视,http://fnos.sunny2017.xyz:7788/udp/239.21.1.89:5002
 江西卫视,http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8
 江西卫视,http://27.41.245.32:801/hls/43/index.m3u8
-江西卫视,http://fnos.sunny2017.xyz:7788/udp/239.21.1.167:5002
 江西卫视,http://121.29.169.73:2083/rtp/239.253.92.19:6145
 辽宁卫视,http://satellitepull.cnr.cn/live/wxlnws/playlist.m3u8
 辽宁卫视,http://fnos.sunny2017.xyz:7788/udp/239.21.1.164:5002
@@ -107,10 +102,11 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 宁夏卫视,http://satellitepull.cnr.cn/live/wxnxws/playlist.m3u8
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-山东卫视,http://121.29.169.73:2083/rtp/239.253.92.207:8109
 山东卫视,http://fnos.sunny2017.xyz:7788/udp/239.21.1.87:5002
+山东卫视,http://121.29.169.73:2083/rtp/239.253.92.207:8109
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
+陕西卫视,http://stream.snrtv.com/sxbc-star-ghuX29.m3u8
 四川卫视,http://fnos.sunny2017.xyz:7788/udp/239.21.2.15:5002
 四川卫视,http://144.255.68.199:5006/udp/239.21.2.15:5002
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
@@ -128,9 +124,10 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 武术世界,http://171.83.103.119:9999/rtp/239.69.1.47:9922
 武术世界,http://171.125.90.120:6001/rtp/226.0.2.97:8688
 武术世界,http://112.254.55.106:22222/rtp/239.253.254.140:8000
-文物宝库,http://112.254.55.106:22222/rtp/239.253.254.141:8000
 文物宝库,http://171.83.103.119:9999/rtp/239.69.1.46:9916
+文物宝库,http://112.254.55.106:22222/rtp/239.253.254.141:8000
 文物宝库,http://171.125.90.120:6001/rtp/226.0.2.110:8792
 
 🪁动画频道,#genre#
 动漫秀场,http://router.870503.xyz:18885/udp/239.45.3.134:5140
+金鹰卡通,http://phonehwei.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1od19waG9uZSZjaHM9JmRlZj0xJnM9ZTRiNjZhZmU3OTlkMWQ4ZThiMTBmNDZhNGUwNzZiODUmdWlkPSZ1dWlkPWE3YWEzOTJkOTQyYWYxZTI2YTAyYmUzYTMyZTk4ZDJjLTZhMGUyNjM3JnY9MiZhcz0wJmVzPTE3NjU5MDQ0NDk,/JYKTMPP360.m3u8
